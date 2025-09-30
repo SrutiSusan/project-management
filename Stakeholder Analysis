@@ -1,0 +1,14 @@
+A stakeholder in a project is any individual, group, or organization that is affected by, has an interest in, or can influence the project’s outcome.
+Stakeholders can be either internal or external to the organization. But they are ultimately an important part in the project execution.
+Let me explain the stakholder importance by analysing an example of an IT project in an organisation, say an ERP implementation project.
+For a project implementing a new ERP system:
+- Sponsor → CFO funding the project.
+- Project Manager → oversees implementation.
+- IT Team → configures and tests the system.
+- Employees → end users who will use the system daily.
+- Vendor → software provider.
+Regulators → ensure data protection compliance.
+Each of them has different levels of influence and interest towards the project:
+High influence & high interest → Sponsor, Project Manager.
+High interest but lower influence → Employees (users).
+High influence but not always direct interest → Regulators.
