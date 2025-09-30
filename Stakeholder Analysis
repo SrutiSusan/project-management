@@ -15,3 +15,14 @@ High influence but not always direct interest → Regulators.
 
 Here for a visual representation of stakeholder analysis, I am using the following sample data and generate a scatter plot using it.
 
+| Stakeholder     | Influence | Interest |
+------------------------------------------
+| CFO (Sponsor)   |    5      |    4     |
+| Project Manager |    4      |    5     |
+| IT Team         |    3      |    4     |
+| Employees       |    2      |    5     |
+| Vendor          |    3      |    3     |
+| Regulators      |    4      |    4     |
+
+
+
